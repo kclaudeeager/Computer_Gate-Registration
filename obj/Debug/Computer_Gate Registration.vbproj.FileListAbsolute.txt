@@ -1,0 +1,17 @@
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\bin\Debug\Computer_Gate Registration.exe.config
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\bin\Debug\Computer_Gate Registration.exe
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\bin\Debug\Computer_Gate Registration.pdb
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\bin\Debug\Computer_Gate Registration.xml
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate Registration.vbproj.AssemblyReference.cache
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate_Registration.Form1.resources
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate_Registration.Resources.resources
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate_Registration.Students.resources
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate Registration.vbproj.GenerateResource.cache
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate Registration.vbproj.CoreCompileInputs.cache
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate Registration.exe
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate Registration.xml
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate Registration.pdb
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate_Registration.Sites.resources
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate_Registration.Computers.resources
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate_Registration.Student_Computers.resources
+F:\year 3 notes\Semester 2\Software development lab\Programs\Computer_Gate Registration\obj\Debug\Computer_Gate_Registration.RegisterComputer.resources
